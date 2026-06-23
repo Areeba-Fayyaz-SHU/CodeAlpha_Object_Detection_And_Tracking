@@ -20,3 +20,5 @@ A real-time Object Detection and Tracking system built as part of the CodeAlpha 
 2. Install the required dependencies:
 ```bash
    pip install ultralytics opencv-python
+3. Run the tracking script:
+      python detector_tracker.py
